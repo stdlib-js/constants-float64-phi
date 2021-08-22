@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float64-phi",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Golden ratio.",
   "license": "Apache-2.0",
   "author": {
