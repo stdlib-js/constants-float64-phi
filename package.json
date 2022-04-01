@@ -1,0 +1,45 @@
+{
+  "name": "@stdlib/constants-float64-phi",
+  "version": "0.0.0",
+  "description": "Golden ratio.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/constants-float64-phi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "constant",
+    "const",
+    "mathematics",
+    "math",
+    "golden",
+    "ratio",
+    "phi",
+    "tau",
+    "golden mean",
+    "golden section",
+    "divine section",
+    "golden cut",
+    "medial section",
+    "divine proportion",
+    "golden number",
+    "number",
+    "divine",
+    "ieee754",
+    "double",
+    "dbl",
+    "floating-point",
+    "float64"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
