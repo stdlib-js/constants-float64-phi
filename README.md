@@ -176,7 +176,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/constants-float64-phi/main/LICENSE
 
-[phi]: http://en.wikipedia.org/wiki/Golden_ratio
+[phi]: https://en.wikipedia.org/wiki/Golden_ratio
 
 [phi-value]: http://oeis.org/A001622
 
