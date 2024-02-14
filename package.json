@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float64-phi",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Golden ratio.",
   "license": "Apache-2.0",
   "author": {
@@ -36,7 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils-library-manifest": "^0.1.1"
+    "@stdlib/utils-library-manifest": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/math-base-special-sqrt": "^0.1.1",
