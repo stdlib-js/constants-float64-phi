@@ -63,6 +63,11 @@ The [golden ratio][phi] can be defined algebraically as
 ## Usage
 
 ```javascript
+import PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-phi@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float64-phi/tags). For example,
+
+```javascript
 import PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-phi@v0.2.0-esm/index.mjs';
 ```
 
@@ -93,7 +98,7 @@ var bool = ( PHI === 1.618033988749895 );
 <body>
 <script type="module">
 
-import PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-phi@v0.2.0-esm/index.mjs';
+import PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-phi@esm/index.mjs';
 
 console.log( PHI );
 // => 1.618033988749895
